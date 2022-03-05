@@ -1,9 +1,9 @@
 {
  "info": {
-  "url_png_icon_64x64": "",
-  "url_png_logo": "",
+  "url_png_icon_64x64": "https://raw.githubusercontent.com/masashi0031/SASP/main/SASPlogo.png",
+  "url_png_logo": "https://raw.githubusercontent.com/masashi0031/SASP/main/SASPlogo.png",
   "social": {
-   "twitter_handle": "",
+   "twitter_handle": "@simple_stake",
    "telegram_handle": "",
    "youtube_handle": "",
    "facebook_handle": "",
