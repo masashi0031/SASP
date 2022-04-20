@@ -1,6 +1,6 @@
 {
 "name": "Simple ADA Stake Pool",
-"description": "委任者様の利益を最優先に手数料を最低値に設定しています。またADAプレゼントキャンペーン実施中です！！詳細はtwitterへ！！https://twitter.com/simple_stake",
+"description": "委任者様の利益を最優先に手数料を最低値に設定しています。またADAプレゼントキャンペーン実施中です！！詳細はtwitterの固定ツイートへへ！！https://twitter.com/simple_stake",
 "homepage": "https://twitter.com/simple_stake",
 "extended": "https://raw.githubusercontent.com/masashi0031/SASP/main/extendedMeta.json" 
 }
