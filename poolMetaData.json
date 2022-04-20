@@ -1,7 +1,6 @@
 {
 "name": "Simple ADA Stake Pool",
-"description": "現在ADAプレゼントキャンペーン実施中です！！Cardanoを応援する日本発のプールです。未来の為のCardanoと皆さんの笑顔がたくさん生まれますようにベストを尽くします。 I will do my best to create a lot of smiles for Cardano and everyone !",
-"ticker": "SASP",
+"description": "委任者様の利益を最優先に手数料を最低値に設定しています。またADAプレゼントキャンペーン実施中です！！詳細はtwitterの固定ツイートへ！！https://twitter.com/simple_stake",
 "homepage": "https://twitter.com/simple_stake",
 "extended": "https://raw.githubusercontent.com/masashi0031/SASP/main/extendedMeta.json" 
 }
